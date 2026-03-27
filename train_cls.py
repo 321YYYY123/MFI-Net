@@ -29,7 +29,6 @@ MODE="Train"  # 选择模式 "Train" 或 "Test"
 preModepath = r"log\cls\Hengshuang\MiniShift1024_02242354\last.pth" #r"log\cls\PTM\Air04250118\best.pth" # 预训练模型路径，如果是测试模式需要指定预训练模型路径
 
 SelectDataSet = 5  # 选择数据集的索引，0表示Airplane，1表示Car，2表示Chair，3表示ModelNet40
-saveTh=False # 是否保存特定实例精度的模型
 LoadLr= 1  # 是否加载学习率
 batch_size = 10
 

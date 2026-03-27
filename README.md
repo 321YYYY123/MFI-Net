@@ -55,7 +55,7 @@ MFI-Net/
 └── model/               # Model definition files
 ```
 
-Requirements
+## Requirements
 ```bash
 Python 3.8+
 PyTorch
@@ -68,3 +68,14 @@ You can install the main dependencies with:
 pip install torch torchvision numpy tqdm scikit-learn
 ```
 If you are using a specific CUDA version, please install the matching PyTorch build from the official PyTorch website.
+
+## Train
+```bash
+python train_cls.py
+```
+
+## Test
+```bash
+python test_cls.py
+```
+

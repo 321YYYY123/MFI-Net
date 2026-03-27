@@ -56,15 +56,15 @@ MFI-Net/
 ```
 
 Requirements
-
+```bash
 Python 3.8+
 PyTorch
 NumPy
 tqdm
 scikit-learn
-
+```
 You can install the main dependencies with:
-
+```bash
 pip install torch torchvision numpy tqdm scikit-learn
-
+```
 If you are using a specific CUDA version, please install the matching PyTorch build from the official PyTorch website.

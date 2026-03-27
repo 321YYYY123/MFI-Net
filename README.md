@@ -1,8 +1,4 @@
 # MFI-Net
-The network model of the MFI-Net paper “MFI-Net: Multi-stage feature interaction network for fine-grained object recognition in point clouds” （https://www.sciencedirect.com/science/article/pii/S0925231226006296）
-<img width="667" height="377" alt="image" src="https://github.com/user-attachments/assets/c2dbff6c-ae5c-4134-832a-e9cea1fd0a8f" />
-
-# MFI-Net
 
 Official / unofficial PyTorch implementation of **MFI-Net** for fine-grained object recognition in point clouds.
 
@@ -57,3 +53,18 @@ MFI-Net/
 ├── train_cls.py         # Training script for classification
 ├── test_cls.py          # Testing / evaluation script
 └── modle/               # Model definition files
+```
+
+Requirements
+
+Python 3.8+
+PyTorch
+NumPy
+tqdm
+scikit-learn
+
+You can install the main dependencies with:
+
+pip install torch torchvision numpy tqdm scikit-learn
+
+If you are using a specific CUDA version, please install the matching PyTorch build from the official PyTorch website.

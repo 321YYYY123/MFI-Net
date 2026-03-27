@@ -1,6 +1,6 @@
 # MFI-Net
 
-Official / unofficial PyTorch implementation of **MFI-Net** for fine-grained object recognition in point clouds.
+Official PyTorch implementation of **MFI-Net** for fine-grained object recognition in point clouds.
 
 > **Paper**: *MFI-Net: Multi-stage Feature Interaction Network for Fine-grained Object Recognition in Point Clouds*  
 > **Paper Link**: https://www.sciencedirect.com/science/article/pii/S0925231226006296

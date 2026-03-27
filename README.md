@@ -52,7 +52,7 @@ MFI-Net/
 ├── pointnet_util.py     # PointNet-related utility modules
 ├── train_cls.py         # Training script for classification
 ├── test_cls.py          # Testing / evaluation script
-└── modle/               # Model definition files
+└── model/               # Model definition files
 ```
 
 Requirements

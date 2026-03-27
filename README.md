@@ -26,7 +26,7 @@ This repository provides the core implementation of MFI-Net, including:
 The overall architecture of MFI-Net is shown below:
 
 <p align="center">
-  <img src="assets/mfi_net_architecture.png" alt="MFI-Net Architecture" width="900"/>
+  <img width="667" height="377" alt="image" src="https://github.com/user-attachments/assets/9e7ae3ed-3ae9-4f78-9f0f-625bed2cc235" />
 </p>
 
 > If you do not have a local image path yet, you can replace the `src` above with your figure path, or directly use the image URL.
